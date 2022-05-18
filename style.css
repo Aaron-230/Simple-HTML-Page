@@ -1,0 +1,26 @@
+body{
+	color: white;
+	background-color: darkblue;
+}
+
+#para{
+	width: 90%;
+}
+
+hr{
+	width: 95%;
+}
+
+h1{
+	font-family: Ink Free;
+	font-weight: bold;
+}
+
+h2{
+	font-family: Ink Free;
+	font-weight: bold;
+}
+
+p{
+	font-family: Ink Free;
+}
